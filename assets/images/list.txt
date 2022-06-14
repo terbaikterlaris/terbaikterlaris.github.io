@@ -1,24 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <title>Terbaik Terlaris</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.1/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.1/css/bootstrap-theme.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/css/lightbox.min.css">
-    <link rel="stylesheet" href="assets/css/Lightbox-Gallery.css">
-    <link rel="stylesheet" href="assets/css/styles.css">
-</head>
-
-<body>
-    <ul class="nav nav-tabs">
-        <li class="active"><a href="/">Home</a></li>
-        <li><a href="/privacy.html">Privacy Policy</a></li>
-    </ul>
-    <div class="container">
-        <div class="row"><div class="col-md-3 col-xs-6"><a data-lightbox="photos" href="assets/images/jual-kubah-masjid1.jpg"><img src="assets/images/re/jual-kubah-masjid1.jpg" width="100%"></a></div>
+<div class="col-md-3 col-xs-6"><a data-lightbox="photos" href="assets/images/jual-kubah-masjid1.jpg"><img src="assets/images/re/jual-kubah-masjid1.jpg" width="100%"></a></div>
 <div class="col-md-3 col-xs-6"><a data-lightbox="photos" href="assets/images/jual-kubah-masjid10.jpg"><img src="assets/images/re/jual-kubah-masjid10.jpg" width="100%"></a></div>
 <div class="col-md-3 col-xs-6"><a data-lightbox="photos" href="assets/images/jual-kubah-masjid11.jpg"><img src="assets/images/re/jual-kubah-masjid11.jpg" width="100%"></a></div>
 <div class="col-md-3 col-xs-6"><a data-lightbox="photos" href="assets/images/jual-kubah-masjid12.jpg"><img src="assets/images/re/jual-kubah-masjid12.jpg" width="100%"></a></div>
@@ -48,11 +28,3 @@
 <div class="col-md-3 col-xs-6"><a data-lightbox="photos" href="assets/images/jual-kubah-masjid8.jpg"><img src="assets/images/re/jual-kubah-masjid8.jpg" width="100%"></a></div>
 <div class="col-md-3 col-xs-6"><a data-lightbox="photos" href="assets/images/jual-kubah-masjid9.jpg"><img src="assets/images/re/jual-kubah-masjid9.jpg" width="100%"></a></div>
 <div class="col-md-3 col-xs-6"><a data-lightbox="photos" href="assets/images/kubah-enamel-8.jpg"><img src="assets/images/re/kubah-enamel-8.jpg" width="100%"></a></div>
-</div>
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.1/js/bootstrap.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/js/lightbox.min.js"></script>
-</body>
-
-</html>
